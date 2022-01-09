@@ -1,4 +1,4 @@
-# TPO Flutter App
+# TPO Backend
 
 Projekt za TPO.
 
